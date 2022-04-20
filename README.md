@@ -1,8 +1,8 @@
 # 5_CS_STUDY
 
+<br>
 
-
-
+<br>
 
 > ### 참여인원
 
@@ -12,21 +12,21 @@
 * :woman_technologist: 마주리 
 * :woman_technologist: 장한나
 
+<br>
 
+<br>
 
-
-
-
+<br>
 
 > ### 파일명
 
 `<본인이름> : <발표 주제>.<파일 확장자>`
 
+<br>
 
+<br>
 
-
-
-
+<br>
 
 > ### 사용방법
 
@@ -76,12 +76,12 @@
 
 7. 초기 설정이 완료되면 그 이후에는 4 ~ 6번의 과정을 반복하며 사용하면 됩니다.
 
+<br>
 
+<br>
 
+<br>
 
-
-
-
-> 참고사이트
+> ### 참고사이트
 
 * https://github.com/gyoogle/tech-interview-for-developer
